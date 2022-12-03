@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>小邱的第一个网页</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div  style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+    ">
+     <img src="http://img95.699pic.com/xsj/1l/x0/ex.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast" alt="芝士世界" width="80px" height=" 80px";>
+    </div>
+    <div style="
+      max-width: 700px;
+      margin; 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+      color: purple ;
+      ">
+     <p>欢迎来到的网站</p>
+     <p>第二次修改了</p>
+     <p>不知道这次效果会怎么样</p>
+     <p>那就拭目以待吧</p>
+     <p>哈哈哈哈</p>
+     <p>2022.12.3</p>
+    </div>
+    <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      font-size: 16px;
+     ">
+      <p>我的网站</p>
+      <a href="https://qiujiayao.com/">友情链接</a>
+     </div>
+  </body>
+</html>
